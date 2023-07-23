@@ -4,6 +4,7 @@ hello, this is stuff
 - feature a1
 
 # b
+- feature b1
 
 # c
 - feature c1
